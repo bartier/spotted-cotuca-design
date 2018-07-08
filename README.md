@@ -1,10 +1,10 @@
 # spotted-cotuca-design
 
-Design conceito para o [Spotted Cotuca.](http://newspottedctc.appspot.com/)
+Conceito de design para o [Spotted Cotuca.](http://newspottedctc.appspot.com/)
 
 ## Sobre
 
-O design conceito foi dividido em 3 partes:
+O conceito de design foi dividido em 3 partes:
 
 * Logo (foto do perfil)
 * Cover do Facebook
