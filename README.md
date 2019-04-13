@@ -1,6 +1,8 @@
 # spotted-cotuca-design
 
-Conceito de design para o [Spotted Cotuca.](http://newspottedctc.appspot.com/)
+Tentativa de conceito de design para o [Spotted Cotuca.](http://newspottedctc.appspot.com/)
+
+Não sou Designer rs, apenas uma epifania de querer fazer isso mesmo =]
 
 ## Sobre
 
@@ -31,7 +33,7 @@ Além disso, foi criado o **wireframe** do site do Spotted Cotuca, utilizado par
 ## Site
 
 ![site-spotted-cotuca](https://user-images.githubusercontent.com/18057391/42424661-543dd734-82e6-11e8-983c-a6911698e057.jpg)
-
+(deprecated -- improvements no conceito do site são necessários)
 ---
 
 ## Referências
